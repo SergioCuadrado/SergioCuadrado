@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergioCuadrado
-- 💻 FullStack Junior
+- 💻 FullStack
 
 ## <h2 align="center"> Skills </h2>
 <p align="center">
